@@ -6,11 +6,14 @@
 * Thanks to Akelos Framework, Zend and Ruby on Rails.
 * 
 * 
-* @author Jason Hamilton-Mascioli <jason@udemo.ca>
+* @author Jason Hamilton-Mascioli <jason@kickstartlabs.com>
 * @copyright Copyright (c) 2008, KickStartLabs:0, http://www.kickstartlabs.com
 * @license GNU Lesser General Public License <http://www.gnu.org/copyleft/lesser.html>
 * @since 0.1
 * @version $Revision 0.1 $
+
+More info:
+http://codeigniter.com/wiki/Inflector/
 
 // LOAD LIBRARY
 $this->load->library('Inflector'); 
